@@ -60,7 +60,7 @@ Examples：
 ![image](https://github.com/Luoyu-Wang/ROCA/blob/master/introduction/introduction3.png)
 
 
-If you have any questions, please contact
+If you have any questions, please contact us:
 
 mr.luoyuwang@gmail.com
 
