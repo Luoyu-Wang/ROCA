@@ -1,7 +1,7 @@
 # ROCA
 
 
-Receiver operating characteristic assistant (Roca) is a tool for drawing and analyzing ROC curve based on MATLAB platform. At present, ROC curve and PR curve can be drawn, and the confidence interval can be calculated. At the same time, confusion matrix, sensitivity, specificity, accuracy, precision, recall rate, positive predictive value, negative predictive value, Youden index and other indicators can be calculated. Its characteristic function is to compare and fit several ROC curves and PR curves.
+Receiver operating characteristic assistant (Roca) is a toolbox for drawing and analyzing ROC curve based on MATLAB platform. At present, ROC curve and PR curve could be drawn, and the confidence interval could be calculated. At the same time, confusion matrix, sensitivity, specificity, accuracy, precision, recall rate, positive predictive value, negative predictive value, Youden index and other indicators could be calculated. Its characteristic function is to compare and fit several ROC curves and PR curves.
 
 Developer: Wang Luoyu, LV Yating, Ding Zhongxiang
 
@@ -11,9 +11,9 @@ Main functions:
 
 1. Draw a single ROC and PR curve
 
-2. Draw several ROC curves and compare and fit pr
+2. Draw several ROC curves and PR curves, and  compare and fit them
 
-3. 16 related indexes including confusion matrix, sensitivity, specificity, accuracy, precision, recall rate, positive predictive value, negative predictive value, Youden index and F1 score can be calculated
+3. 16 related indexes including confusion matrix, sensitivity, specificity, accuracy, precision, recall rate, positive predictive value, negative predictive value, Youden index and F1 score could be calculated
 
 4. Delong test
 
@@ -22,7 +22,7 @@ Main functions:
 
 Installation:
 
-If the runtime of MATLAB 2018b is not installed, you can run MyAppInstaller_mcr.exe, ROCA will be installed independently.
+If the runtime of MATLAB 2018b has not  been installed, you can run MyAppInstaller_mcr.exe, ROCA will be installed independently.
 
 If the computer has the runtime of MATLAB 2018b installed, you can click ROCA.exe to run it directly.
 
