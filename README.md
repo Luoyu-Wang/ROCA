@@ -4,7 +4,7 @@ Receiver operating characteristic assistant (Roca) is a tool for drawing and ana
 
 Developer: Wang Luoyu, LV Yating, Ding Zhongxiang
 
-![image](https://github.com/Luoyu-Wang/ROCA/blob/master/splash.png）
+![image](https://github.com/Luoyu-Wang/ROCA/blob/master/splash.png)
  
 Main functions:
 1. Draw a single ROC and PR curve
