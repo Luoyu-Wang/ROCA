@@ -6,7 +6,8 @@ Receiver operating characteristic assistant (Roca) is a tool for drawing and ana
 Developer: Wang Luoyu, LV Yating, Ding Zhongxiang
 
 ![image](https://github.com/Luoyu-Wang/ROCA/blob/master/splash.png)
- 
+
+![image](https://github.com/Luoyu-Wang/ROCA/blob/master/introduction/introduction1.png)
  
 Main functions:
 
@@ -35,18 +36,24 @@ The first column is classified label, and the second column is decision value or
 
 Basic output:
 
-ROC *. TIF: vector diagram of ROC curve.
+*ROC.TIF: vector diagram of ROC curve.
 
-PR *. TIF: PR curve vector diagram.
+*PRC.TIF: PR curve vector diagram.
 
 CSV file: contains 16 related indicators.
 
 
 Advanced analysis:
 
-ROC *. Fig: ROC curve, can be further processed in MATLAB.
+*ROC.Fig: ROC curve, can be further processed in MATLAB.
 
-ROC *. Fig: PR curve can be further processed in MATLAB.
+*PRC.Fig: PR curve can be further processed in MATLAB.
 
 *.mat: contains other indicators, which can be further processed in MATLAB.
+
+Examples：
+
+![image](https://github.com/Luoyu-Wang/ROCA/blob/master/introduction/introduction2.png)
+
+![image](https://github.com/Luoyu-Wang/ROCA/blob/master/introduction/introduction3.png)
   
