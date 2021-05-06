@@ -29,7 +29,7 @@ If the computer has the runtime of MATLAB 2018b installed, you can click ROCA.ex
 
 Input:
 
-The first column is classified label, and the second column is decision value or probability value.
+CSV file: The first column is classified label, and the second column is decision value or probability value.
 
 
 Basic output:
