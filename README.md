@@ -3,7 +3,7 @@
 
 Receiver operating characteristic assistant (ROCA) is a toolbox for drawing and analyzing ROC curve based on MATLAB platform. At present, ROC curve and PR curve could be drawn, and the confidence interval could be calculated. At the same time, confusion matrix, sensitivity, specificity, accuracy, precision, recall rate, positive predictive value, negative predictive value, Youden index and other indicators could be calculated. Its characteristic function is to compare and fit several ROC curves and PR curves.
 
-Developer: Wang Luoyu, LV Yating, Ding Zhongxiang
+Developer: Wang Luoyu, Lv Yating, Ding Zhongxiang
 
 Department of Radiology, Affiliated Hangzhou First People’s Hospital, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China.
 
