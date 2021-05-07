@@ -1,4 +1,4 @@
-# Receiver operating characteristic assistant (ROCA)
+# Receiver Operating Characteristic Assistant (ROCA)
 
 # Warning: The compressed installation package has 900m+, and please make sure the downloaded file is complete. It is recommended to download the installation package separately instead of the compressed package if the network is poor.
 
