@@ -30,6 +30,7 @@ If the runtime of MATLAB 2018b has not  been installed, you can run MyAppInstall
 
 If the computer has the runtime of MATLAB 2018b installed, you can click ROCA.exe to run it directly.
 
+Warning: it is recommended to download the installation package directly instead of the compressed package.
 
 Input:
 
